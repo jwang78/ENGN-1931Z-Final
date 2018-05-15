@@ -1,0 +1,7 @@
+TODO:
+Pick up all notes on a chord
+Use microphone input and FFT to determine which ones to play
+FFT determine when to shut off note
+Calculate metrics for accuracy (FT difference)
+Generate midi from sheet music pdf
+Download midi from youtube video (FT analysis)
